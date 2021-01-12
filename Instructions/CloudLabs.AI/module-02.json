@@ -1,0 +1,10 @@
+[ {
+  "Name": "Migrating Hyper-V VMs to Azure by using Azure Migrate",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-304-Microsoft-Azure-Architect-Design/tree/prodInstructions/CloudLabs.AI/Module_3_Lab.md",
+      "Order": 1
+    }
+  ]
+} ]

@@ -1,0 +1,10 @@
+[ {
+  "Name": "Implement Azure Logic Apps integration with Azure Event Grid",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-304-Microsoft-Azure-Architect-Design/tree/prodInstructions/CloudLabs.AI/Module_13_Lab_a.md",
+      "Order": 1
+    }
+  ]
+} ]

@@ -1,0 +1,10 @@
+[ {
+  "Name": "Implementing Azure SQL Database-Based Applications",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ-304-Microsoft-Azure-Architect-Design/tree/prodInstructions/CloudLabs.AI/Module_6_Lab.md",
+      "Order": 1
+    }
+  ]
+} ]
